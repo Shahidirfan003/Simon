@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+}
+.outer{
+    width: 450px;
+    height: 800px;
+    margin: auto;
+}
+.style{
+    width:200px;
+    height: 200px;
+    border: 10px solid black;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+.inner1,.inner2{
+    display: inline-block;
+}
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+.white{
+    background-color: white;
+}
+.start{
+    padding: 10px 15px;
+   border: 2px solid black;
+    color:black;
+    border-radius: 5px;
+    margin-left: 42%;
+}
