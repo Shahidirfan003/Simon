@@ -50,6 +50,7 @@ function flash(div){
          },200)
          h1.innerHTML=`GAME OVER <br> Your high score is ${level}`;
           level=0;
+          game=[];
          start.style.display="inline";
     }
  }
